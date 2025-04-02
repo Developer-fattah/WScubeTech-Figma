@@ -15,14 +15,14 @@
 }
 .whatsappbtn:hover{
     border: 1px solid #27AE60;
-    color: #27AE60;
+    /* color: #27AE60; */
 }
 .call{
     color: #fff;
     border: 1px solid #2699FB;
     background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
 }
-.call:hover{
+/* .call:hover{
     color: #fff;
     border: 1px solid #2699FB;
-}
+} */
